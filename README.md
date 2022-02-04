@@ -13,6 +13,10 @@ Branches created should be named using the following format:
 - bg == Bug
 - ch == Chore
 - rf == Refactor
+- ts == Test
+- dc == Docs
+- st == Style
+- pt == Patch
 
 `story-summary` - Short 2-3 words summary about what the branch contains
 
